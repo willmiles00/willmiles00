@@ -1,14 +1,14 @@
 # William Miles
 
 ## About Me
-Hey! My name is William. I am a Web Developer studying at Utah Valley University in my Junior year. When I'm not studying I enjoy running, seeing a good movie, working on some coding passion projects, or eating some good food.
+Hey! My name is William. I am a Web Developer studying at Utah Valley University in my Senior year. When I'm not studying I enjoy running, seeing a good movie, working on some coding passion projects, or eating some good food.
 
 ## Skills
-- JavaScript (3+ years experience)
-- HTML5 (3+ years experience)
-- CSS (3+ years experience)
-- Tailwind (2+ years experience)
-- OmniCMS (2+ years exprience)
+- JavaScript (5+ years experience)
+- HTML5 (5+ years experience)
+- CSS (5+ years experience)
+- Tailwind (5+ years experience)
+- OmniCMS (5+ years exprience)
 
 ## Projects
 - [Workout Tracking App](https://github.com/willmiles00/workoutApp): I created this app to help the user track workouts and view them on a seamless timeline.
