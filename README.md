@@ -16,6 +16,6 @@ Hey! My name is William. I am a Web Developer studying at Utah Valley University
 - [Portfolio](https://willmiles.co/): A simple portfolio I created to get into the Web Development program at UVU
 
 ## Contact Me
-- Email: [william.miles@uvu.edu](mailto:william.miles@uvu.edu)
+- Email: [willmilesut@gmail.com](mailto:willmilesut@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/williammilesut/)
 - GitHub: [Github](https://github.com/willmiles00)
