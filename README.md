@@ -1,19 +1,20 @@
 # William Miles
 
 ## About Me
-Hey! My name is William. I am a Web Developer studying at Utah Valley University in my Senior year. When I'm not studying I enjoy running, seeing a good movie, working on some coding passion projects, or eating some good food.
+Hey! My name is William. I am a Web Developer based out of Binghamton, NY. I earned my Bachelor of Science at Utah Valley University where I also worked as a Web App Developer. When I'm not coding I enjoy hiking, collecting records, making espresso, and baking.
 
 ## Skills
-- JavaScript (5+ years experience)
-- HTML5 (5+ years experience)
-- CSS (5+ years experience)
-- Tailwind (5+ years experience)
-- OmniCMS (5+ years exprience)
+- JavaScript/TypeScript 
+- HTML5 
+- CSS/Tailwind 
+- Svelte/SvelteKit 
+- Vue, React, and other JavaScript frameworks
+- OmniCMS 
 
 ## Projects
 - [Workout Tracking App](https://github.com/willmiles00/workoutApp): I created this app to help the user track workouts and view them on a seamless timeline.
 - [Let's To-Do This](https://github.com/willmiles00/listApp): A simple todo list app that let users create tasks they could edit, delete, mark as complete, and categorize.
-- [Portfolio](https://willmiles.co/): A simple portfolio I created to get into the Web Development program at UVU
+- [Portfolio](https://hirewillmiles.com/): My current portfolio site displaying my work and contact info
 
 ## Contact Me
 - Email: [willmilesut@gmail.com](mailto:willmilesut@gmail.com)
